@@ -1,0 +1,5 @@
+Git and Github 
+- Git add => move file to stage
+- untrack
+- stage ( it contain snapshot of last add ) = temp snapshot before commit you can modify yet
+- commit 
