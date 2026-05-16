@@ -59,7 +59,7 @@ Staging contains OLD snapshot until you run git add again.
 
 Now Important Part
 Can We Restore in Both Cases?
-✅ YES — But Source Is Different
+YES — But Source Is Different
 Case 1 — Restore From Staging Area
 
 If file is staged but not committed:
@@ -103,11 +103,11 @@ One Important Thing
 
 If staged file gets deleted:
 
-✅ recoverable
+ recoverable
 
 If committed file gets deleted:
 
-✅ also recoverable
+ also recoverable
 
 BUT:
 
