@@ -3,3 +3,5 @@ Git and Github
 - untrack
 - stage ( it contain snapshot of last add ) = temp snapshot before commit you can modify yet
 - commit 
+
+Git fetch (just tell any changes in remote not download) + merge (download) = git pull ( direct download changes) 
