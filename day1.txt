@@ -6,4 +6,7 @@ Git and Github
 
 Git fetch (just tell any changes in remote not download) + merge (download) = git pull ( direct download changes) 
 
-Banch
+Git Branches 
+- it is copy of you code in repo 
+- master is root for local
+- main is root for remote
